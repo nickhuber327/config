@@ -1,1 +1,1 @@
-# config
+# My custom ZSH theme
